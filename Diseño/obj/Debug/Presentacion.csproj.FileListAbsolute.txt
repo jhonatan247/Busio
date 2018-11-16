@@ -1,0 +1,408 @@
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\PrinterUtility.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\LibPrintTicket.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\LibPrintTicket.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ContextMenuPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DateTimePro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DropDownPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.LabelPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxValide.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ToolStripMenuItemPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmLogin.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmView.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.MessageUser.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlProducto.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarProducto.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\BarcodeLib.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmInicio.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.Login.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmBuscarProducto.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroInicial.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroFinal.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCerrarTurno.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoPago.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxExValide.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtVender.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccion.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewProducto.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Reportes.frmReporteProducto.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Negocio.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmProducto.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmColumnasVisibles.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ComboEXValide.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmElegirSucursal.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewCortaSucursal.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoBusqueda.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlMarca.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmMarca.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeMarca.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccionPapelera.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarMarca.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCategoria.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCategoria.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCategoria.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeCategoria.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarPresentacion.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlPresentacion.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmPresentacion.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajePresentacion.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarUnidadMedida.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlUnidadMedida.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmUnidadMedida.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeUnidadMedida.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarTipoDocumento.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlTipoDocumento.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoDocumento.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarEmpresaDistribuidora.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlEmpresaDistribuidora.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmEmpresaDistribuidora.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeEmpresaDistribuidora.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCliente.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCliente.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Presentacion.exe.config
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Presentacion.exe
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Presentacion.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Bunifu_UI_v1.52.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Charts.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.Instrumentation.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\PrinterUtility.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\BarcodeLib.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\LibPrintTicket.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\DevComponents.Instrumentation.xml
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.dll.config
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\LibPrintTicket.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ComboEXValide.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ContextMenuPro.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DateTimePro.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DropDownPro.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputPro.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.LabelPro.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxExValide.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxValide.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ToolStripMenuItemPro.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCategoria.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeCategoria.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmPresentacion.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajePresentacion.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmBuscarProducto.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeMarca.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoDocumento.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmUnidadMedida.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeUnidadMedida.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmColumnasVisibles.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroFinal.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCerrarTurno.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroInicial.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmElegirSucursal.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmInicio.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmLogin.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmMarca.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccionPapelera.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccion.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmProducto.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoBusqueda.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoPago.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmView.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.MessageUser.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Properties.Resources.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Reportes.frmReporteProducto.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCliente.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarTipoDocumento.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarUnidadMedida.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarPresentacion.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCategoria.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarProducto.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarMarca.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCliente.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlTipoDocumento.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlUnidadMedida.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlPresentacion.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCategoria.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlMarca.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlProducto.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtVender.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.Login.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewCortaSucursal.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewProducto.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.exe
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.pdb
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtInicio.resources
+D:\ProyectosVisual\C#\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputEx.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Presentacion.exe.config
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.exe
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ComboEXValide.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ContextMenuPro.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DateTimePro.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DropDownPro.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputEx.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputPro.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.LabelPro.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxExValide.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxValide.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ToolStripMenuItemPro.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCategoria.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeCategoria.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmEmpresaDistribuidora.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeEmpresaDistribuidora.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmPresentacion.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajePresentacion.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmBuscarProducto.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeMarca.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoDocumento.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmUnidadMedida.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeUnidadMedida.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmColumnasVisibles.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroFinal.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCerrarTurno.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroInicial.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmElegirSucursal.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmInicio.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmLogin.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmMarca.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccionPapelera.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccion.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmProducto.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoBusqueda.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoPago.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmView.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.MessageUser.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Reportes.frmReporteProducto.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtInicio.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarEmpresaDistribuidora.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCliente.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarTipoDocumento.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarUnidadMedida.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarPresentacion.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCategoria.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarProducto.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarMarca.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlEmpresaDistribuidora.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCliente.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlTipoDocumento.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlUnidadMedida.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlPresentacion.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCategoria.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlMarca.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlProducto.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtVender.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.Login.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewCortaSucursal.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewProducto.resources
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\RdlCompile.cache
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\RdlCompile.compiled
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Presentacion.exe
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Presentacion.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Charts.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Negocio.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Datos.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\PrinterUtility.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\BarcodeLib.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\LibPrintTicket.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Negocio.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.Instrumentation.xml
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Datos.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\LibPrintTicket.pdb
+D:\Escritorio\Bussines\Business optimizer\Diseño\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Escritorio\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.Form1.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ComboEXValide.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ContextMenuPro.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DateTimePro.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.DropDownPro.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.Form1.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputEx.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.InputPro.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.LabelPro.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxExValide.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.TextBoxValide.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.ToolStripMenuItemPro.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCategoria.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeCategoria.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmPresentacion.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajePresentacion.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmBuscarProducto.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeMarca.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoDocumento.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmUnidadMedida.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmReciclajeUnidadMedida.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmColumnasVisibles.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroFinal.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmCerrarTurno.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmDineroInicial.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmElegirSucursal.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmInicio.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmLogin.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmMarca.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccionPapelera.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmOpcionesSeleccion.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmProducto.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoBusqueda.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmTipoPago.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Formularios.frmView.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Controles.MessageUser.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Properties.Resources.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Reportes.frmReporteProducto.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtInicio.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCliente.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarTipoDocumento.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarUnidadMedida.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarPresentacion.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarCategoria.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarProducto.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlBuscarMarca.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlEmpresaDistribuidora.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCliente.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlTipoDocumento.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlUnidadMedida.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlPresentacion.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlCategoria.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlMarca.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtlProducto.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.crtVender.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Usuario.Login.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewCortaSucursal.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.Vistas.viewProducto.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.exe
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\obj\Debug\Presentacion.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar.Charts.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\PrinterUtility.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\BarcodeLib.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\LibPrintTicket.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\ProfessionalTicket.dll.config
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\LibPrintTicket.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Presentacion.exe.config
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Presentacion.exe
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Diseño\bin\Debug\Presentacion.pdb

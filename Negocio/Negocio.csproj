@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9605361A-CAF8-41C8-98E8-1C1A0B001D8B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Negocio</RootNamespace>
+    <AssemblyName>Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=14.0.0.15, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar.Schedule.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.0.0.15, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=14.0.0.15, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Lógica\AccionesSistema.cs" />
+    <Compile Include="Manejo de datos\Nota_Cotizacion_Entrada.cs" />
+    <Compile Include="Manejo de datos\Nota_Movimiento_Dinero.cs" />
+    <Compile Include="Manejo de datos\Cotizacion_Saida.cs" />
+    <Compile Include="Manejo de datos\Nota_Cotizacion_Salida.cs" />
+    <Compile Include="Manejo de datos\Detalle_Cotizacion_Saida.cs" />
+    <Compile Include="Manejo de datos\Cotizacion_Entrada.cs" />
+    <Compile Include="Manejo de datos\Movimiento_Dinero.cs" />
+    <Compile Include="Manejo de datos\Nota_Promocion.cs" />
+    <Compile Include="Manejo de datos\Detalle_Promocion.cs" />
+    <Compile Include="Manejo de datos\Venta.cs" />
+    <Compile Include="Manejo de datos\Nota_Venta.cs" />
+    <Compile Include="Manejo de datos\Detalle_Venta.cs" />
+    <Compile Include="Manejo de datos\Pago_Venta.cs" />
+    <Compile Include="Manejo de datos\Devolucion.cs" />
+    <Compile Include="Manejo de datos\Nota_Devolucion.cs" />
+    <Compile Include="Manejo de datos\Nota_Entrada.cs" />
+    <Compile Include="Manejo de datos\Detalle_Entrada.cs" />
+    <Compile Include="Manejo de datos\Inventario.cs" />
+    <Compile Include="Manejo de datos\Movimiento_Inventario.cs" />
+    <Compile Include="Manejo de datos\Cliente.cs" />
+    <Compile Include="Manejo de datos\Promocion.cs" />
+    <Compile Include="Manejo de datos\Entrada.cs" />
+    <Compile Include="Manejo de datos\Producto.cs" />
+    <Compile Include="Manejo de datos\Unidad_Medida.cs" />
+    <Compile Include="Manejo de datos\Categoria.cs" />
+    <Compile Include="Manejo de datos\Presentacion.cs" />
+    <Compile Include="Manejo de datos\Marca.cs" />
+    <Compile Include="Manejo de datos\Proveedor.cs" />
+    <Compile Include="Manejo de datos\Empresa_Distribuidora.cs" />
+    <Compile Include="Manejo de datos\Historial_Caja.cs" />
+    <Compile Include="Manejo de datos\Cargo_Trabajador.cs" />
+    <Compile Include="Manejo de datos\Caja.cs" />
+    <Compile Include="Manejo de datos\Historial_Contraseña_Usuario.cs" />
+    <Compile Include="Manejo de datos\Permisos_Usuario_Sucursal.cs" />
+    <Compile Include="Manejo de datos\Usuario.cs" />
+    <Compile Include="Manejo de datos\Nomina_Empleado.cs" />
+    <Compile Include="Manejo de datos\Trabajador.cs" />
+    <Compile Include="Manejo de datos\Departamento.cs" />
+    <Compile Include="Manejo de datos\Detalle_Documento_Sucursal.cs" />
+    <Compile Include="Manejo de datos\Sucursal.cs" />
+    <Compile Include="Manejo de datos\Tipo_Documento.cs" />
+    <Compile Include="Manejo de datos\Info_General.cs" />
+    <Compile Include="Manejo de datos\Detalle_Cotizacion_Entrada.cs" />
+    <Compile Include="Manejo de datos\_0.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{710dba43-8019-443a-9ed6-ccdac229195d}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

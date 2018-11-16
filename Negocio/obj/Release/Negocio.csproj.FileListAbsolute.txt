@@ -1,0 +1,16 @@
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\Negocio.dll.config
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\Negocio.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\Negocio.pdb
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\Datos.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\DevComponents.DotNetBar.Schedule.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\DevComponents.DotNetBar2.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\DevComponents.Instrumentation.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\Datos.pdb
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\DevComponents.DotNetBar.Schedule.xml
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\DevComponents.DotNetBar2.xml
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Release\DevComponents.Instrumentation.xml
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Release\Negocio.Properties.Resources.resources
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Release\Negocio.csproj.GenerateResource.Cache
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Release\Negocio.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Release\Negocio.pdb

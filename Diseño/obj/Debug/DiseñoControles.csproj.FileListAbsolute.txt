@@ -1,0 +1,86 @@
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DiseñoControles.dll.config
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DiseñoControles.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DiseñoControles.pdb
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Bunifu_UI_v1.52.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Properties.Resources.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.pdb
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.Instrumentation.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.Instrumentation.xml
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.Espera1.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.Header.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.Login.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.PanelMain.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.MessageUser.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.TextBoxValide.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.ContextMenuPro.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.ToolStripMenuItemPro.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.LabelPro.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.SignUp.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.DateTimeCustom.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.DateTimePro.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.DropDownPro.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.FormsEnglish.frmHomePage.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.News.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.FormsEnglish.frmAbout.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.Tools.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.UserSettings.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Usuario.ListNews.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.Controles.InputPro.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\obj\Debug\DiseñoControles.FormsEnglish.HomeUser.resources
+D:\ProyectosVisual\C#\LifeStyle\Diseño\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.ContextMenuPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.DateTimePro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.DropDownPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.InputPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.LabelPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.TextBoxValide.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.ToolStripMenuItemPro.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Usuario.Login.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.MessageUser.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Usuario.UserSettings.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DiseñoControles.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DiseñoControles.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DiseñoControles.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\Negocio.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Formularios.frmAbout.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Formularios.frmInicioUsuario.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.viewUsuario.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Formularios.frmView.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.viewInsumo.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Formularios.frmConfig.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Formularios.frmHelp.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Diseño\obj\Debug\DiseñoControles.Controles.viewInventario.resources

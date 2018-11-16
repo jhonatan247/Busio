@@ -1,0 +1,131 @@
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\obj\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\obj\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Aproyect\SistemaParaLibreria\Negocio\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Freedga\Negocio\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Freedga\Negocio\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Freedga\Negocio\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Freedga\Negocio\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Freedga\Negocio\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Freedga\Negocio\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Freedga\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Freedga\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\ProyectosVisual\C#\Freedga\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Freedga\Negocio\obj\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Freedga\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Clean Services\Negocio\obj\Debug\Negocio.pdb
+D:\Documentos\Visual Studio 2015\Projects\WindowsFormsApplication2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\WindowsFormsApplication2\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\WindowsFormsApplication2\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\WindowsFormsApplication2\Negocio\obj\Debug\Negocio.dll
+D:\Documentos\Visual Studio 2015\Projects\WindowsFormsApplication2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Business optimizer\Negocio\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.dll
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ProyectosVisual\C#\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.xml
+D:\ProyectosVisual\C#\Business optimizer\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Business optimizer\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\ProyectosVisual\C#\Business optimizer\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Business optimizer\Negocio\obj\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Business optimizer\Negocio\obj\Debug\Negocio.pdb
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\Negocio.dll.config
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\Negocio.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\Negocio.pdb
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\Datos.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\Datos.pdb
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Escritorio\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.xml
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.dll
+D:\Escritorio\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\bin\Debug\DevComponents.Instrumentation.xml
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Bussines\Business optimizer\Negocio\obj\Debug\Negocio.pdb
